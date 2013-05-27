@@ -1,0 +1,22 @@
+{
+  "name": "tokenhunter",
+  "version": "0.0.0",
+  "description": "Functional token parser for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nightfly19/tokenhunter.git"
+  },
+  "keywords": [
+    "tokenizer",
+    "parser"
+  ],
+  "author": "Sage Imel",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/nightfly19/tokenhunter/issues"
+  }
+}
